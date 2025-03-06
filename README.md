@@ -1,4 +1,4 @@
-This repo sets up a few services in a microservices architeture and uses OpenTelemetry to instrument them, providing traces that can then be visualized in Jaeger.
+This repo sets up a few services in a microservices architecture and uses OpenTelemetry to instrument them, providing traces that can then be visualized in Jaeger.
 
 ## Architecture
 
